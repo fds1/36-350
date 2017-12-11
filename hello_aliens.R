@@ -1,4 +1,5 @@
 cat("Hello there!")
+cat("Hello there!") 
 cat("We are the people of Planet Earth and number around 7 billion.")
 cat("Our planet is the only planet in our solar system.")
 cat("Through our pursuit of knowledge, we have implored to discover other forms of intelligent life.")
